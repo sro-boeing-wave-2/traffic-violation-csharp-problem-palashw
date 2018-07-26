@@ -1,0 +1,11 @@
+D:\workspace\CSharp\Assignments\traffic-violation-csharp-problem-palashw\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.deps.json
+D:\workspace\CSharp\Assignments\traffic-violation-csharp-problem-palashw\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.runtimeconfig.json
+D:\workspace\CSharp\Assignments\traffic-violation-csharp-problem-palashw\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.runtimeconfig.dev.json
+D:\workspace\CSharp\Assignments\traffic-violation-csharp-problem-palashw\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.dll
+D:\workspace\CSharp\Assignments\traffic-violation-csharp-problem-palashw\ConsoleApp6\bin\Debug\netcoreapp2.1\ConsoleApp6.pdb
+D:\workspace\CSharp\Assignments\traffic-violation-csharp-problem-palashw\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.csprojAssemblyReference.cache
+D:\workspace\CSharp\Assignments\traffic-violation-csharp-problem-palashw\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\workspace\CSharp\Assignments\traffic-violation-csharp-problem-palashw\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.AssemblyInfoInputs.cache
+D:\workspace\CSharp\Assignments\traffic-violation-csharp-problem-palashw\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.AssemblyInfo.cs
+D:\workspace\CSharp\Assignments\traffic-violation-csharp-problem-palashw\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.dll
+D:\workspace\CSharp\Assignments\traffic-violation-csharp-problem-palashw\ConsoleApp6\obj\Debug\netcoreapp2.1\ConsoleApp6.pdb
